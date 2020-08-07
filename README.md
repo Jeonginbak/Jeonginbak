@@ -1,8 +1,10 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonginbak?color=yellow)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeonginbak)](https://hits.seeyoufarm.com)
 
 깔끔한 코드와 효율적인 로직 작성을 중요시 여기는,  
 더 나은 서비스를 통한 사람과 사람 사이의 연결을 추구하는  
 백엔드 개발자 박정인입니다.
+
+[🌱 blog : https://velog.io/@jeongin](https://velog.io/@jeongin) | [📮 mail : jeonginflow.com](mailto:jeonginflow.com)
 
 <!--
 **Jeonginbak/Jeonginbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
