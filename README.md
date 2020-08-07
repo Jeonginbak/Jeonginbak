@@ -4,10 +4,6 @@
 <p>더 나은 서비스를 통한 사람과 사람 사이의 연결을 추구하는</p> 
 <p>백엔드 개발자 박정인입니다.</p> 
 
-🌈[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jeonginflow@gmail.com)
-	
-   mail : 
-
 <!--
 **Jeonginbak/Jeonginbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
