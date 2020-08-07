@@ -6,7 +6,7 @@
 <br>
 <br>
 
-🌱&nbsp;[https://velog.io/@jeongin](https://velog.io/@jeongin) 
+🌱&nbsp;[https://velog.io/@jeongin](https://velog.io/@jeongin)  
 📮&nbsp;[jeonginflow@gmail.com](mailto:jeonginflow@gmail.com)
 
 <!--
