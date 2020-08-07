@@ -3,9 +3,10 @@
 <p>깔끔한 코드와 효율적인 로직 작성을 중요시 여기는,</p> 
 <p>더 나은 서비스를 통한 사람과 사람 사이의 연결을 추구하는</p> 
 <p>백엔드 개발자 박정인입니다.</p> 
-[![Tech Blog Badge](https://media.vlpt.us/images/velog/post/ebf87853-b6b7-47af-a659-d97fb39e66b0/velog_logo.png)](https://velog.io/@jeongin)
-🌈 
-   mail : jeonginflow.com
+
+🌈[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jeonginflow@gmail.com)
+	
+   mail : 
 
 <!--
 **Jeonginbak/Jeonginbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
