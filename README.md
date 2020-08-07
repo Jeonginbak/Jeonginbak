@@ -4,7 +4,6 @@
 더 나은 서비스를 통한 사람과 사람 사이의 연결을 추구하는  
 백엔드 개발자 박정인입니다.
 <br>
-<br>
 
 🌱&nbsp;[https://velog.io/@jeongin](https://velog.io/@jeongin)  
 📮&nbsp;[jeonginflow@gmail.com](mailto:jeonginflow@gmail.com)
