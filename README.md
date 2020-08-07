@@ -5,7 +5,8 @@
 백엔드 개발자 박정인입니다.
 
 🌱&nbsp;[https://velog.io/@jeongin](https://velog.io/@jeongin) 
-<p></p>
+<br>
+
 📮&nbsp;[jeonginflow@gmail.com](mailto:jeonginflow@gmail.com)
 
 <!--
